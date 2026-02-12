@@ -1,0 +1,29 @@
+1.importing the packages
+2.exploring the dataset - Skin lesion Classification Data
+3.Image Processing using opencv
+4.Data Extraction and splitting the data
+5.Building the Model
+	- SVM
+	- Decision Tree
+	- Random Forest
+	- MLP
+	- Voting Classifier
+6.Image  processing using Image Data Augmentation for CNN
+7.Data Extraction to Train and Test 
+8.Model building
+    - VGG16
+    - MobileNet
+    - CNN
+    - Cascaded CNN - Torch
+9.Training the Model with Train and Test
+10.here MobileNet gives better accuracy aroubd 90% comparing with others propsed
+models only 5 epochs
+11.Flask Framework with Sqlite for signup and signin
+12.User gives input 
+13.the given input is preprocessed for prediction
+14.trained model is used for prediction for about image 
+15.final outcome is displayed through frontend
+
+Extension - VGG16 and MobileNet model is used as extension  along with RF, Voting, SVM, DT
+where MobileNet model gives better accuarcy comparing all other model and used to predicting the
+user inputs for analysis

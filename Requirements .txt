@@ -1,0 +1,12 @@
+﻿tensorflow
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+flask
+sqlite3
+albumentations
+tqdm
+azureml-core
